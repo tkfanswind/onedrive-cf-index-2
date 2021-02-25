@@ -21,9 +21,9 @@ const config = {
    * You can use this tool http://heymind.github.io/tools/microsoft-graph-api-auth
    * to get following params: client_id, client_secret, refresh_token & redirect_uri.
    */
-  refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
-  client_secret: CLIENT_SECRET,
+  refresh_token: '0.AAAAt1FBlq8slkKXiKcl8cmk9M0cnfmE4F5Bs0puQeWg4r9RAM0.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAQDs_wQA9P_alDv6YNjaBrQZZkskukbryh0_3mpYyDNEhUFT5cV-S-3RvbsxX8ucN8935PharfmpHP8R7lYRtpF2c356YJTM21zdJPEAREL-iBFa8_JwhX7Wy4lSTmMkvQ6-YjMpS4day-pWKQtvD94U9Mc2ZCPldg8F965csgL1jeNHD6B9CwdBmqs52mRK2h__Hq5kiLuWy3G2ND7WFD-1NbDJOs07yc_NIqouLWiAnBEVzXyBD1dCcW52u0QyJ51hOd3X4LhCV5tdb6cD34GFkVAMzAwqZbyHeDzPyU1fQEPdseLsCI-NU_lLEXpnz9YHsF0Z9-gObmqgnn6O4D_xwHTsSeTw0We_sYkckYqQZkXZuJ9znKl0ps5xVKSD1ENiid4feU08rDinKnP_E8cpt_z_X8rM-sPuMRVfsGo8Wzd3HhhwtHUBST5WOoTQYPF1bRZabkXwMckU03uRC4NBOuOxZQgvrmpHGHyAGd3EBARAxO2qMDBkutidR2AULV5ydWVgAOEMne0tGtd4HTCTR3V2eHnUzSfBn5aWn_8Y9OIL7Fr8Mr20Aq72JplmqtOEQZwcABjEQxQr2iC3cTe4HmOQq0ZzdJ5jGM5uH3wu9EXr0ZjbGls9qn5Yi53KiBncDUyIMSCzafSPHWhmknB1juQMozJyDjdF9SMhqoXY8KwwSfo-S__07InGddrC2fDrJ1iv5kOnfVc1jY5V7UInWG5Oj3ZnkLGUGjLt3VtZNMUxenFLXMroHtiiyLGhnUtkugBAiR4c7drLDi5HjVolZ6bMpjqYDtFLvGODPA2nc9mqR1iCDQeWKNGOfYpYC5zea-0Z00yaaK_Zg2kKi8lG1iUxmAr6w4W6Iokh4z10Yf5Fpp6qrYMGIl1hWrADfWJ8ZrTYp7nv3qpjqK11vIPILumBPa2G',
+  client_id: 'f99d1ccd-e084-415e-b34a-6e41e5a0e2bf',
+  client_secret: 'lv63r1vn3Ma9ER7Ei_oLP-N0a_t_1-ErW2',
   redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
 
   /**
