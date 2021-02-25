@@ -1,10 +1,10 @@
-name = "drive"
+name = "www"
 type = "webpack"
 workers_dev = true
-account_id = "b87997a496f985b46b927b3f24c61de1"
-zone_id = "b04152d2c33ff4653cec1a579be6d42a"
+account_id = "3318ec21330ab3808c1a9ce3470d263b"
+zone_id = "3bed77f1e10eb228721bfff82a4389d5"
 kv_namespaces = [
-    { binding = "BUCKET", preview_id = "55b0fc4e288a465fb225421f2af5d445", id = "09b0cf433f394b309d35d1ff3bd0bf39" }
+    { binding = "BUCKET", id = "7599512ae12b4a2090be630cc1f71649" }
 ]
 
 [env.staging]
