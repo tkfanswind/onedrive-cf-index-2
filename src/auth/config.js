@@ -15,7 +15,7 @@ export const PASS = AUTH_PASSWORD
 // export const PASS = ''
 
 export const DISABLE_PATHS = ['/favicon.ico', '/robots.txt']
-export const ENABLE_PATHS = ['Films/222', '/Films/John Wick222']
+export const ENABLE_PATHS = ['/Private folder/Private folder', '/Private folder/Private folder2']
 
 /**
  * RegExp for basic auth credentials
