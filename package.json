@@ -28,6 +28,6 @@
     "emoji-regex": "^9.2.0",
     "font-awesome-filetypes": "^2.1.0",
     "marked": "^2.0.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.24.3"
   }
 }
