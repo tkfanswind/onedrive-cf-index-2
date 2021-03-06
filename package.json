@@ -22,12 +22,12 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "prettier": "^1.18.2",
-    "webpack": "^4.46.0"
+    "prettier": "^1.18.2"
   },
   "dependencies": {
     "emoji-regex": "^9.2.0",
     "font-awesome-filetypes": "^2.1.0",
-    "marked": "^2.0.1"
+    "marked": "^2.0.1",
+    "webpack": "^4.46.0"
   }
 }
