@@ -8,14 +8,14 @@
  */
 export const AUTH_ENABLED = true
 
-export const NAME = 'guest'
+export const NAME = 'tkfans'
 // If auth is enabled, then you need to set this secret using wrangler secret put AUTH_PASSWORD
 export const PASS = AUTH_PASSWORD
 // // If auth is not enabled, then you should comment the line above, and set PASS to an empty string
 // export const PASS = ''
 
 export const DISABLE_PATHS = ['/favicon.ico', '/robots.txt']
-export const ENABLE_PATHS = ['/🌞 Private folder/Private folder']
+export const ENABLE_PATHS = ['/Films/007', '/Films/John Wick', 'NEW']
 
 /**
  * RegExp for basic auth credentials
