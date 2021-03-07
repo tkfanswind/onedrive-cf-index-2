@@ -53,7 +53,7 @@ export function renderHTML(body, pLink, pIdx) {
       ${body}
       <div class="paginate-container">${pagination(pIdx)}</div>
       <div id="flex-container" data-turbolinks-permanent style="flex-grow: 1;"></div>
-      <footer id="footer" data-turbolinks-permanent><p>Powered by <a href="https://github.com/spencerwooo/onedrive-cf-index">onedrive-cf-index</a>, hosted on <a href="https://www.cloudflare.com/products/cloudflare-workers/">Cloudflare Workers</a>.</p></footer>
+      <footer id="footer" data-turbolinks-permanent><a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/Hosted%20on-CF%20Workers-f38020?logo=cloudflare&logoColor=f38020&labelColor=282d33" alt="hosted on cloudflare workers"></a> <a href="https://tkfans.tk"><img src="https://img.shields.io/badge/tkfans-000000?logo=Apple&logoColor=FFFFFF" alt="tkfans"></a></footer>
       <script>
         if (typeof ap !== "undefined" && ap.paused !== true) {
           ap.destroy()
