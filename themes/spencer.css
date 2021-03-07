@@ -312,14 +312,3 @@ a.item:hover {
     color: #89befa !important;
   }
 }
-
-div.path,
-a.item {
-  word-break: break-all;
-}
-span.size {
-  white-space: nowrap;
-}
-div.items > div {
-  min-width: 280px !important;
-}
