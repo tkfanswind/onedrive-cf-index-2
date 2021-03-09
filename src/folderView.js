@@ -52,8 +52,6 @@ export async function renderFolderView(items, path, request) {
   const intro = `<div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://tv.tkfans.tk/">Google Drive 1</a></p>
-                    <p><a href="https://tv2.tkfans.tk/">Google Drive 2</a></p>
                     <p><a href="https://od.tkfans.tk/">One Drive ALL</a></p>
                     <p><a href="https://onedrive.tkfans.tk/od1">One Drive 1</a></p>
                     <p><a href="https://onedrive.tkfans.tk/od2">One Drive 2</a></p>
