@@ -52,8 +52,8 @@ export async function renderFolderView(items, path, request) {
   const intro = `<div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://od.tkfans.tk/">One Drive ALL</a></p>
-                    <p><a href="https://onedrive.tkfans.tk/">One Drive All</a></p>
+                    <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
+                    <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                   </div>`
 
   // Check if current directory contains README.md, if true, then render spinner
