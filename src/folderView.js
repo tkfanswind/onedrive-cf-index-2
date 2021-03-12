@@ -53,8 +53,7 @@ export async function renderFolderView(items, path, request) {
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
                     <p><a href="https://od.tkfans.tk/">One Drive ALL</a></p>
-                    <p><a href="https://onedrive.tkfans.tk/od1">One Drive 1</a></p>
-                    <p><a href="https://onedrive.tkfans.tk/od2">One Drive 2</a></p>
+                    <p><a href="https://onedrive.tkfans.tk/">One Drive All</a></p>
                   </div>`
 
   // Check if current directory contains README.md, if true, then render spinner
