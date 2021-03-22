@@ -54,11 +54,12 @@ export async function renderFolderView(items, path, request) {
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
                     <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
-                            <meta name="referrer" content="never">
-      <img src="https://img9.doubanio.com/view/photo/l/public/p2634360594.jpg" width="60%" height="60%">
-      <img src="http://www.zzrbl.com/wordpress/wp-content/uploads/2021/03/1-725x1024.jpg" width="60%" height="60%">
-      <img src="https://wx4.sinaimg.cn/mw690/a856602dly1gornpbli75j20zk0m8twj.jpg">
-      <img src="https://img9.doubanio.com/view/photo/l/public/p2630644695.jpg">
+
+                        <meta name="referrer" content="never">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2634360594.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2632712700.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2630644695.jpg">
+
                   </div>`
 
   // Check if current directory contains README.md, if true, then render spinner
