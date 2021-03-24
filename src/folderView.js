@@ -55,7 +55,8 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                     <hr>
-                    <h2>📁 NEW 👋</h2>                        
+                    <h2>📁 NEW 👋</h2>            
+                              <meta name="referrer" content="never">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2544475818.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2545035277.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2197181849.jpg" width="60%" height="60%">
