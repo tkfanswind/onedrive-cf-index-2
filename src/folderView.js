@@ -49,14 +49,18 @@ export async function renderFolderView(items, path, request) {
       (fileName === '..' ? '' : el('span', ['class="size"'], readableFileSize(size)))
     )
 
-  const intro = `<div class="intro markdown-body" style="text-align: left; margin-top: 2rem;" meta name="referrer" content="never">
+  const intro = `<html>
+               <head>
+            <meta name="referrer" content="never">
+              </head>
+                  <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
                     <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
-                    <hr>
+                          <hr>
                     <h2>📁 NEW 👋</h2>            
-                              <meta name="referrer" content="never">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2629260713.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2544475818.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2545035277.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2197181849.jpg" width="60%" height="60%">
@@ -66,7 +70,8 @@ export async function renderFolderView(items, path, request) {
             <img src="https://img3.doubanio.com/view/photo/l/public/p2632712700.jpg" width="60%" height="60%">
             <img src="https://www.wowow.co.jp/drama/original/influence/img/mv.jpg">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2630644695.jpg">
-                  </div>`
+                  </div>
+                 </html>`
 
   // Check if current directory contains README.md, if true, then render spinner
   let readmeExists = false
