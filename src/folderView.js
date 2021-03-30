@@ -58,10 +58,11 @@ export async function renderFolderView(items, path, request) {
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
                     <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
+                          <hr>
+                    <h2>📁 NEW 👋</h2>     
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2021.03.20]%E5%BD%B1%E5%93%8D/">影响</a></p>
-                          <hr>
-                    <h2>📁 NEW 👋</h2>         
+                          <hr> 
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634367251.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2182085556.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2182082619.jpg" width="60%" height="60%">
