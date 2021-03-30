@@ -62,14 +62,14 @@ export async function renderFolderView(items, path, request) {
                     <h2>📁 NEW 👋</h2>     
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2021.03.20]%E5%BD%B1%E5%93%8D/">影响</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios%EF%BC%9ALegends/">Marvel Studios：Legends</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/The%20Falcon%20and%20the%20Winter%20Soldier/">The Falcon and the Winter Soldier</a></p>
                           <hr> 
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634367251.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2182085556.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2182082619.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2630139764.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2632487996.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2632712700.jpg" width="60%" height="60%">
             <img src="https://www.wowow.co.jp/drama/original/influence/img/mv.jpg">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2630139764.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2632487996.jpg" width="60%" height="60%">
                   </div>
                  </html>`
 
