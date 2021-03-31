@@ -59,12 +59,17 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://od.tkfans.tk/">OneDrive OLAINDEX</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
-                    <h2>📁 NEW 👋</h2>     
+                    <h2>📁 NEW 👋</h2>
+                    <p><a href="https://www.tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%93%A5%E6%96%AF%E6%8B%89+%E9%87%91%E5%88%9A/">哥斯拉</a></p>
+                    <p><a href="https://www.tkfans.tk/Films/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1/%E6%83%8A%E5%A4%A9%E8%90%A5%E6%95%91/">惊天营救</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2021.03.20]%E5%BD%B1%E5%93%8D/">影响</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios%EF%BC%9ALegends/">Marvel Studios：Legends</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Falcon%20and%20the%20Winter%20Soldier/">The Falcon and the Winter Soldier</a></p>
-                          <hr> 
+                          <hr>
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2634919811.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2593425210.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2634360594.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634367251.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2632712700.jpg" width="60%" height="60%">
             <img src="https://www.wowow.co.jp/drama/original/influence/img/mv.jpg">
