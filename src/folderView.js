@@ -60,24 +60,14 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                     <p><a href="https://www.tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%93%A5%E6%96%AF%E6%8B%89+%E9%87%91%E5%88%9A/">哥斯拉</a></p>
-                    <p><a href="https://www.tkfans.tk/Films/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1/%E6%83%8A%E5%A4%A9%E8%90%A5%E6%95%91/">惊天营救</a></p>
-                    <p><a href="https://www.tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/DC%E7%94%B5%E5%BD%B1/[2017.11.17]%E6%AD%A3%E4%B9%89%E8%81%94%E7%9B%9F/">正义联盟</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2021.03.20]%E5%BD%B1%E5%93%8D/">影响</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios%EF%BC%9ALegends/">Marvel Studios：Legends</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Falcon%20and%20the%20Winter%20Soldier/">The Falcon and the Winter Soldier</a></p>
                           <hr>
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2630989297.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2113893448.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2113893269.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p1166966337.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2634912595.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2634799022.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2217639745.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p1130373223.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2634398296.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634919811.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2593425210.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2634360594.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634367251.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2632712700.jpg" width="60%" height="60%">
