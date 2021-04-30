@@ -67,6 +67,8 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios%EF%BC%9ALegends/">Marvel Studios：Legends</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Falcon%20and%20the%20Winter%20Soldier/">The Falcon and the Winter Soldier</a></p>
                           <hr>
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2165876406.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2639574541.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2595123270.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2634398296.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634919811.jpg" width="60%" height="60%">
