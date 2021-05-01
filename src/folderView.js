@@ -62,7 +62,7 @@ export async function renderFolderView(items, path, request) {
                     <h2>📁 NEW 👋</h2>
                     <p><a href="https://tkfans.tk/Films/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%9D%8E%E7%84%95%E8%8B%B1/">你好，李焕英</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%88/">唐人街探案</a></p>
-                    <p><a href="https://tkfans.tk/Films/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1/%E7%8B%99%E5%87%BB%E8%81%8C%E4%B8%9A%E6%9D%80%E6%89%8B/">狙击职业杀手</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
                     <p><a href="https://tkfans.tk/TV/%E5%8A%A8%E6%BC%AB/%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83/%E5%89%A7%E5%9C%BA%E7%89%88/">鬼灭之刃 剧场版 无限列车篇</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                     <p><a href="https://www.tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%93%A5%E6%96%AF%E6%8B%89+%E9%87%91%E5%88%9A/">哥斯拉</a></p>
@@ -73,8 +73,7 @@ export async function renderFolderView(items, path, request) {
             <img src="https://img1.doubanio.com/view/photo/l/public/p2629056068.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2622388983.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2622388913.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2165876406.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2639574541.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2637722515.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2595123270.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2634398296.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2634919811.jpg" width="60%" height="60%">
