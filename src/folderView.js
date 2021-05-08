@@ -60,6 +60,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/JTV/[2013.07.07]%E5%8D%8A%E6%B3%BD%E7%9B%B4%E6%A0%91+/">半泽直树</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%9D%8E%E7%84%95%E8%8B%B1/">你好，李焕英</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%88/">唐人街探案</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
@@ -70,6 +71,9 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios%EF%BC%9ALegends/">Marvel Studios：Legends</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Falcon%20and%20the%20Winter%20Soldier/">The Falcon and the Winter Soldier</a></p>
                           <hr>
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2018085196.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2628677419.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2610225002.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2629056068.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2622388983.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2622388913.jpg" width="60%" height="60%">
