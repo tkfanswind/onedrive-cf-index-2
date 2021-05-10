@@ -67,9 +67,9 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
             <img src="https://img3.doubanio.com/view/photo/l/public/p2103421840.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2152148727.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2152700651.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2217658640.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2364328639.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2361217836.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2385439756.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2500408007.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2570433291.jpg" width="60%" height="60%">
