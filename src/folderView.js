@@ -60,11 +60,19 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/JTV/%E7%B1%B3%E4%BB%93%E5%87%89%E5%AD%90/[2012.10.18]Doctor-X(Y)+/">Doctor-X</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2013.07.07]%E5%8D%8A%E6%B3%BD%E7%9B%B4%E6%A0%91+/">半泽直树</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2103421840.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2152148727.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2217658640.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2364328639.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2385439756.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2500408007.jpg" width="60%" height="60%">
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2570433291.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2018085196.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2628677419.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2610225002.jpg" width="60%" height="60%">
