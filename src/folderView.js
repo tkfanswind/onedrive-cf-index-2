@@ -68,6 +68,8 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2638926837.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2639263452.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2554039676.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2155142584.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p1740406621.jpg" width="60%" height="60%">
