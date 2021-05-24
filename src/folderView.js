@@ -60,7 +60,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2018.04.09]%E8%A1%8C%E9%AA%97%E5%A4%A9%E4%B8%8BJP+/">行骗天下JP+</a></p>
+                    <p><a href="https://tkfans.tk/TV/JTV/[2018.04.09]%E8%A1%8C%E9%AA%97%E5%A4%A9%E4%B8%8BJP+/">行骗天下JP</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Love%20Death%20&%20Robots/">Love Death & Robots</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[1998.07.07]%E9%BA%BB%E8%BE%A3%E6%95%99%E5%B8%88%20GTO/">麻辣教师 GTO</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2019.08.08]%E5%85%A8%E8%A3%B8%E5%AF%BC%E6%BC%94+/">全裸导演</a></p>
