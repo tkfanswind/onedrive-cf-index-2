@@ -60,6 +60,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/JTV/[2018.04.09]%E8%A1%8C%E9%AA%97%E5%A4%A9%E4%B8%8BJP+/">行骗天下JP+</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Love%20Death%20&%20Robots/">Love Death & Robots</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[1998.07.07]%E9%BA%BB%E8%BE%A3%E6%95%99%E5%B8%88%20GTO/">麻辣教师 GTO</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2019.08.08]%E5%85%A8%E8%A3%B8%E5%AF%BC%E6%BC%94+/">全裸导演</a></p>
@@ -69,6 +70,10 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2507745164.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2549891899.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2557171386.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2622257489.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2551717438.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2641221021.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2638926837.jpg" width="60%" height="60%">
