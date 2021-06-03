@@ -60,6 +60,8 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/True%20Detective/">真探</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2021.05.15]%E5%BD%B7%E5%BE%A8%E4%B9%8B%E5%88%83/">彷徨之刃</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.04.09]%E8%A1%8C%E9%AA%97%E5%A4%A9%E4%B8%8BJP+/">行骗天下JP</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Love%20Death%20&%20Robots/">Love Death & Robots</a></p>
@@ -77,6 +79,8 @@ export async function renderFolderView(items, path, request) {
             <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2645284481.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2652233985.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2642842673.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2653946775.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2507745164.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2549891899.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2557171386.jpg" width="60%" height="60%">
