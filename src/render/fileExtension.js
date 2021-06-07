@@ -38,6 +38,10 @@ const extensions = {
   txt: preview.text,
 
   mp4: preview.video,
+  avi: preview.video,
+  mpg: preview.video,
+  mpeg: preview.video,
+  ts: preview.video,
   flv: preview.video,
   webm: preview.video,
   m3u8: preview.video,
