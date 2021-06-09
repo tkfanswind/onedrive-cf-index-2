@@ -60,6 +60,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
+                    <p><a href="https://tkfans.tk/TV/USTV/Loki//">洛基</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/True%20Detective/">真探</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2021.05.15]%E5%BD%B7%E5%BE%A8%E4%B9%8B%E5%88%83/">彷徨之刃</a></p>
@@ -73,6 +74,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
             <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2161543367.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2556548395.jpg" width="60%" height="60%">
