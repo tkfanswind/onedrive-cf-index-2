@@ -60,57 +60,13 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
-                    <p><a href="https://tkfans.tk/TV/USTV/Loki//">洛基</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/Loki/">洛基</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/True%20Detective/">真探</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2021.05.15]%E5%BD%B7%E5%BE%A8%E4%B9%8B%E5%88%83/">彷徨之刃</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2018.04.09]%E8%A1%8C%E9%AA%97%E5%A4%A9%E4%B8%8BJP+/">行骗天下JP</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/Love%20Death%20&%20Robots/">Love Death & Robots</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[1998.07.07]%E9%BA%BB%E8%BE%A3%E6%95%99%E5%B8%88%20GTO/">麻辣教师 GTO</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2019.08.08]%E5%85%A8%E8%A3%B8%E5%AF%BC%E6%BC%94+/">全裸导演</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/%E7%B1%B3%E4%BB%93%E5%87%89%E5%AD%90/[2012.10.18]Doctor-X(Y)+/">Doctor-X</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2013.07.07]%E5%8D%8A%E6%B3%BD%E7%9B%B4%E6%A0%91+/">半泽直树</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/The%20Handmaid's%20Tale/">The Handmaid's Tale</a></p>
-                    <p><a href="https://tkfans.tk/TV/JTV/[2018.01.14]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A+/[2021.03.26]%E7%8B%82%E8%B5%8C%E4%B9%8B%E6%B8%8A%C2%B7%E5%8F%8C/">狂赌之渊·双</a></p>
                           <hr>
             <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
             <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2161543367.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2556548395.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2543065068.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2645284481.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2652233985.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2642842673.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2653946775.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2507745164.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2549891899.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2557171386.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2622257489.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2551717438.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2641221021.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2638926837.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2639263452.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2554039676.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2155142584.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p1740406621.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2565924481.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2103421840.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2152700651.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2217658640.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2361217836.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2385439756.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2500408007.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2570433291.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2018085196.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2628677419.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2610225002.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2590894957.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p545850913.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2634398296.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2013503692.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2637722515.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2634367251.jpg" width="60%" height="60%">
                   </div>
                  </html>`
 
