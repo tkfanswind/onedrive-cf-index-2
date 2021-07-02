@@ -65,6 +65,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                           <hr>
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2666541015.jpg" width="60%" height="60%">
             <img src="https://img3.doubanio.com/view/photo/l/public/p2595123270.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
             <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
