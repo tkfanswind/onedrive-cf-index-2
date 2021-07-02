@@ -60,13 +60,18 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
-                    <p><a href="https://tkfans.tk/TV/%E5%8A%A8%E6%BC%AB/%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83/%E5%89%A7%E5%9C%BA%E7%89%88/">鬼灭之刃 剧场版 无限列车篇</a></p>
+                    <p><a href="https://tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/">浪客剑心</a></p>
+                    <p><a href="https://tkfans.tk/NEW/">明日之战</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Loki/">洛基</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                           <hr>
+            <img src="https://img2.doubanio.com/view/photo/l/public/p1811862671.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2184443605.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2194586665.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2627551613.jpg" width="60%" height="60%">
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2641350668.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2666541015.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2595123270.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
             <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2634398296.jpg" width="60%" height="60%">
