@@ -70,6 +70,7 @@ export async function renderFolderView(items, path, request) {
                           <hr>
             <img src="https://img1.doubanio.com/view/photo/l/public/p2594097919.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p896064368.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p1579021082.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2518852413.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2651298629.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p1811862671.jpg" width="60%" height="60%">
