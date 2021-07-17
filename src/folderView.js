@@ -64,7 +64,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E5%AF%82%E9%9D%99%E4%B9%8B%E5%9C%B0/">寂静之地</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/">浪客剑心</a></p>
                     <p><a href="https://tkfans.tk/NEW/">明日之战</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/Loki/">洛基</a></p>
+                    <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios/Loki/">洛基</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                           <hr>
