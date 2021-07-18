@@ -68,6 +68,14 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
                     <p><a href="https://tkfans.tk/TV/JTV/[2005.07.08]%E9%BE%99%E6%A8%B1+/">龙樱</a></p>
                           <hr>
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2657554193.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2647131304.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2649579601.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p1422373182.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2191442753.jpg" width="60%" height="60%">
+            <img src="https://img9.doubanio.com/view/photo/l/public/p2662552995.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2657248953.jpg" width="60%" height="60%">
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2670935583.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2594097919.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p896064368.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p1579021082.jpg" width="60%" height="60%">
