@@ -61,10 +61,12 @@ export async function renderFolderView(items, path, request) {
                           <hr>
                     <h2>📁 NEW 👋</h2>
                     <p><a href="https://tkfans.tk/NEW/">NEW</a></p>
+                    <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/DC%E7%94%B5%E5%BD%B1/">X特遣队：全员集结</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1/[2021.07.09]%E9%BB%91%E5%AF%A1%E5%A6%87/">黑寡妇</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios/Loki/">洛基</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/Mare%20of%20Easttown/">东城梦魇</a></p>
+
                           <hr>
+            <img src="https://img2.doubanio.com/view/photo/l/public/p2636972051.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2640611704.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2652691446.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2657554193.jpg" width="60%" height="60%">
@@ -87,7 +89,6 @@ export async function renderFolderView(items, path, request) {
             <img src="https://img1.doubanio.com/view/photo/l/public/p2641350668.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2666541015.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2637878518.jpg" width="60%" height="60%">
                   </div>
                  </html>`
 
