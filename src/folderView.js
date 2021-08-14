@@ -61,11 +61,13 @@ export async function renderFolderView(items, path, request) {
                           <hr>
                     <h2>📁 NEW 👋</h2>
                     <p><a href="https://tkfans.tk/NEW/">NEW</a></p>
+                    <p><a href="https://tkfans.tk/TV/%E5%8A%A8%E6%BC%AB/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB/">新世纪福音战士</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/DC%E7%94%B5%E5%BD%B1/">X特遣队：全员集结</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1/[2021.07.09]%E9%BB%91%E5%AF%A1%E5%A6%87/">黑寡妇</a></p>
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios/Loki/">洛基</a></p>
 
                           <hr>
+            <img src="https://img3.doubanio.com/view/photo/l/public/p2634037610.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2636972051.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2640611704.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2652691446.jpg" width="60%" height="60%">
@@ -80,12 +82,6 @@ export async function renderFolderView(items, path, request) {
             <img src="https://img1.doubanio.com/view/photo/l/public/p2594097919.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p896064368.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p1579021082.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2518852413.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2651298629.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p1811862671.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2184443605.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2194586665.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2627551613.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2641350668.jpg" width="60%" height="60%">
             <img src="https://img9.doubanio.com/view/photo/l/public/p2666541015.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2635721037.jpg" width="60%" height="60%">                         
