@@ -67,6 +67,7 @@ export async function renderFolderView(items, path, request) {
                     <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios/Loki/">洛基</a></p>
 
                           <hr>
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2673133819.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2678888032.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2661661947.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2662585073.jpg" width="60%" height="60%">
