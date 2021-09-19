@@ -56,17 +56,14 @@ export async function renderFolderView(items, path, request) {
                   <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://tkfans.ml/">JTV OneDrive</a></p>
+                    <p><a href="https://tkfans.ml/">tkfans OneDrive</a></p>
                     <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
                     <h2>📁 NEW 👋</h2>
                     <p><a href="https://tkfans.tk/NEW/">NEW</a></p>
-                    <p><a href="https://tkfans.tk/TV/%E5%8A%A8%E6%BC%AB/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB/">新世纪福音战士</a></p>
-                    <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/DC%E7%94%B5%E5%BD%B1/">X特遣队：全员集结</a></p>
                     <p><a href="https://tkfans.tk/Films/%E7%94%B5%E5%BD%B1%E5%90%88%E9%9B%86/%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1/[2021.07.09]%E9%BB%91%E5%AF%A1%E5%A6%87/">黑寡妇</a></p>
-                    <p><a href="https://tkfans.tk/TV/USTV/Marvel%20Studios/Loki/">洛基</a></p>
-
                           <hr>
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg" width="60%" height="60%">                       
             <img src="https://img1.doubanio.com/view/photo/l/public/p2673133819.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2678888032.jpg" width="60%" height="60%">
             <img src="https://img1.doubanio.com/view/photo/l/public/p2661661947.jpg" width="60%" height="60%">
