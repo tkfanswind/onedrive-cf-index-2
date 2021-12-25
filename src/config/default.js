@@ -21,15 +21,15 @@ const config = {
    * You can use this tool http://heymind.github.io/tools/microsoft-graph-api-auth
    * to get following params: client_id, client_secret, refresh_token & redirect_uri.
    */
-  refresh_token: '0.AXEASF5KXcEPTkyqgnaD3GGvze4O3nSkETRHnVMPuEnUO-xxAHA.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9TkWCnTZqJG9ETo6uRTSKuT_ht18W1rRWYb1LyJdiDK56nQD8eNPJ1jcXBJY_7tOi4NkpHQWOCQ3W3s1GecHNuOPIHo8JwPjyQ3Dz_VPhmVEvi89JavNxevaNyoocRjwH8tlfPya3EvUnTejkR2v49cLxlxkE1CX1SjwucJ6SA-BhaSoJ02CaGsHsKTuydTi1nWrABE86FzsetElyl4y9q0JyH0TXJMGNNY8S7n65BCJ-UqweHORQX_jNA-lDwDcGOJBrBvKxyKdycT155quyzGdUQnGAkBdLfLCByl6JsGZXmqOpSLLTZtZ53G7e-F3YXuw0tTSpCw-iMNp6OSd52H79KEwrMk7dA9ec-PvBH8L2qwHT3z9xRn4mFmuRV_Lu7jOoNBkgaPeTKddyuJMP4UC7Jd3sYy6kZ8xPdSPMeuzmyuplAlAscqVavVG-Lb9KoON8LWOVbl_z3vLNFwkaCw2dTaV0Z9cOACLP3eR9PvbxO2uoOqmBJR4r8sRb870F7yTG033gkJSDF1k02r7jjN9FRbZLGLogX80UiSs-6_AQWeRCnij37PIIAolgfTiFjEPeryH9_3FXOBjKOaYobR3XEWfFlFJJ3itzuH9nXcQVAbUHoLDgXP0uOOCYHDhwWn7whfoSYpJzqfY-TLfmmAvw86ZXjMs09B8u4_YKATUyl97jsGtIly8on26O6M8K_-i6dbq-KUti8F-pUiirYKLZOGBa94TyWqi9bFIcYrRTxHH151mqDGAwnlMi4rXvZeaZ6CWZfj4zBnnjaXsEZHlhQZUf6lrReKUtsg2FpZO3_4gzgxVV3KspctBAd4KnZq82ym9fdKa_tM3lyoOWqtqXdFveipky-6cljv1C48LpEt8b0QVOSs4koxSGlVtaoCsiTVkcKiI8qjmCzp5IeBrv9P-ns7SUwfZiOU0N_',
-  client_id: '74de0eee-11a4-4734-9d53-0fb849d43bec',
-  client_secret: 'P_kF6qVpMuYrbcCKTzeD.zoFD4kM2_.794',
+  refresh_token: '0.AVwAOqgt15tmLEuw0FIL5YOAMhiOZJJbu4tBssFXF04eI4tcAHE.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9mdwLllB77pfJw0aqgrjjLvm54-x9kJ0HtezffwK8IL3KCkmIKqH76MFoIeBbRd2K7Y_SpgcNQOz-d-o-SQXJ3H0CUBoL__PNlSTu21uoh3hXFwxpQqn-C3qfJVfdhi139pv-ZS1hty6TVDLrDyVf3afYy6n7asfnrYWAuerPI6xmMyu1jzFv9duAFgatVwiMze3G7BbyHgqmmhH8HmheJZUwS_d7a16qHYmH1WpSvZpZO5gIiVQqkBcMIEAHoHNKxb7CIdUZeuG-4F00XXoI0MgzDdVUWQOfr2_z-kr2GDhc8MTmgkU3lQFr4t4LMf1Apqxl6kCAaQITrvowDEZ7ZTtwOQimV6mzsWlT1muQs6AVTP0p14isrE4s-9W389_tuWPZRj3eI4uDKhn5_BczSAU4l2-JDVpTiSJViSWtuplfhVW5KtO9N76Un-HCS5Z38iOKypmgDbc24Tcr8t9SzQaIIBtpnpTzPc-P3HADADxg7DGEw5EoogxduBfsb_0FTep6raJrHV7z0xXH83PDSf2iUtD03Bq8r_odN-INxK5TwFDCiYMaL_CNBD2xOKZgxk570uDnTTFaEO2JSuGdm-VZ3guUX_lHrOlLpc8MH2V9jPK-jxiECzQmykPdgnsVhfrqoofqQRg5UGwBADFyAw9oWJMIngzVNpPOUQjBmtnWRIaFlxkA_RmoiMQjL0notTmiJxGmD5jmJbOC4cYZ3U9enFxWfH_8bMKsx6soWO7dozCtEycWhPIoxUSXCOxoegqtlgTg9tRGvPXL8qLcq9EIspsHsN4oe1tpL_R-UWZIXW-0N_1xP8F4GxgJ8NWdlOD6yQy4MiweDrup4RPobMkO-8YrGVVSnDLumj5C-_cRmd9dO1S_wP86s0NojgcFaORA9VIxly8SL5EPhe72ExsSGT0o',
+  client_id: '92648e18-bb5b-418b-b2c1-57174e1e238b',
+  client_secret: 'x2dvOF40~-kBn_oFZ-JeCCm~-bT8kRAczk',
   redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
 
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
    */
-  base: '/Public',
+  base: '/BAK/Public',
 
   /**
    * Feature: Pagination when a folder has multiple(>${top}) files
