@@ -62,8 +62,8 @@ export async function renderFolderView(items, path, request) {
                     <h2>📁 NEW 👋</h2>
                     <p><a href="https://onedrive.tkfans.tk/Films.html">Films List</a></p>
                     <p><a href="https://onedrive.tkfans.tk/TV.html">TV List</a></p>
-                          <hr>
-                          
+                          <hr>                          
+            <img src="https://img1.doubanio.com/view/photo/l/public/p2717309409.jpg" width="60%" height="60%">                       
             <img src="https://img3.doubanio.com/view/photo/l/public/p2731675460.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2705941803.jpg" width="60%" height="60%">
             <img src="https://img2.doubanio.com/view/photo/l/public/p2689506331.jpg" width="60%" height="60%">
