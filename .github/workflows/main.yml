@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy to Cloudflare Workers
     steps:
+      - run:  npm audit fix
       - uses: actions/checkout@master
       - name: Publish
-        run:  npm audit fix
         uses: cloudflare/wrangler-action@1.3.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
