@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Publish
-        uses: cloudflare/wrangler-action@1.13.0
+        uses: cloudflare/wrangler-action@1.3.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          wranglerVersion: '1.13.0'
+          wranglerVersion: '1.3.0'
