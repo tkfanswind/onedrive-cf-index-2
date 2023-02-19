@@ -15,7 +15,7 @@ export const PASS = AUTH_PASSWORD
 // export const PASS = ''
 
 export const DISABLE_PATHS = ['/favicon.ico', '/robots.txt']
-export const ENABLE_PATHS = ['/Music', '/Video', '/Music[FLAC]2']
+export const ENABLE_PATHS = ['/Music', '/Video', '/Music[FLAC]']
 
 /**
  * RegExp for basic auth credentials
