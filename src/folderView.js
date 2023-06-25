@@ -56,11 +56,11 @@ export async function renderFolderView(items, path, request) {
                   <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
+                    <p><a href="https://komuro.cf/">Tetsuya Komuro OneDrive</a></p>
                           <hr>
-                    <h2>📁 NEW 👋</h2>
-                    <p><a href="https://onedrive.tkfans.tk/Films.html">Films List</a></p>
-                    <p><a href="https://onedrive.tkfans.tk/TV.html">TV List</a></p>
+                    <h2>📁 Music Playlist 👋</h2>
+                    <p><a href="https://onedrive.tkfans.tk/TK%20Music.html">TK Music List</a></p>
+                    <p><a href="https://onedrive.tkfans.tk/Tag.html">TK Music Tag</a></p>
                           <hr>   
                           
             <img src="https://img9.doubanio.com/view/photo/l/public/p2893377404.jpg" width="60%" height="60%">    
