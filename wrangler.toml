@@ -1,10 +1,10 @@
-name = "www"
+name = "tk"
 type = "webpack"
 workers_dev = true
 account_id = "3318ec21330ab3808c1a9ce3470d263b"
-zone_id = "3bed77f1e10eb228721bfff82a4389d5"
+zone_id = "6ace43257c43ea40c2a7d775a37c214d"
 kv_namespaces = [
-    { binding = "BUCKET", id = "7599512ae12b4a2090be630cc1f71649" }
+    { binding = "BUCKET-TK", id = "b91bc7fec830400a830a689cbd356a57" }
 ]
 
 [env.staging]
