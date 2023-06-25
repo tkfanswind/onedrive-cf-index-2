@@ -56,6 +56,7 @@ export async function renderFolderView(items, path, request) {
                   <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is Tetsuya Komuro OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
+                    <p><a href="https://komuro.cf/">Tetsuya Komuro OneDrive</a></p>
                     <p><a href="https://avex.jp/tk/">Tetsuya Komuro Official</a></p>
                     <p><a href="http://566.music.coocan.jp/">Tetsuya Komuro WORKS</a></p>
                     
