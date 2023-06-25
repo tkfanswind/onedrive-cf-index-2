@@ -49,11 +49,11 @@ export function renderHTML(body, pLink, pIdx) {
       <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
     </head>
     <body>
-      <nav id="navbar" data-turbolinks-permanent><div class="brand">🍎 tkfans OneDrive</div></nav>
+      <nav id="navbar" data-turbolinks-permanent><div class="brand">🍎 Tetsuya Komuro OneDrive</div></nav>
       ${body}
       <div class="paginate-container">${pagination(pIdx)}</div>
       <div id="flex-container" data-turbolinks-permanent style="flex-grow: 1;"></div>
-      <footer id="footer" data-turbolinks-permanent><a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/CF%20Workers-f38020?logo=cloudflare&logoColor=f38020&labelColor=282d33" alt="cloudflare workers"></a> <a href="https://tkfans.ml"><img src="https://img.shields.io/badge/tkfans%20One%20Drive-000000?logo=Apple&logoColor=FFFFFF" alt="tkfans"></a></footer>
+      <footer id="footer" data-turbolinks-permanent><a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/CF%20Workers-f38020?logo=cloudflare&logoColor=f38020&labelColor=282d33" alt="cloudflare workers"></a> <a href="https://komuro.cf"><img src="https://img.shields.io/badge/tkfans%20One%20Drive-000000?logo=Apple&logoColor=FFFFFF" alt="tkfans"></a></footer>
       <script>
         if (typeof ap !== "undefined" && ap.paused !== true) {
           ap.destroy()
