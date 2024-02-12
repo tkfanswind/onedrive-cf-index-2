@@ -56,14 +56,14 @@ export async function renderFolderView(items, path, request) {
                   <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is Tetsuya Komuro OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://komuro.cf/">Tetsuya Komuro OneDrive</a></p>
+                    <p><a href="https://tkfans.pw/">Tetsuya Komuro OneDrive</a></p>
                     <p><a href="https://avex.jp/tk/">Tetsuya Komuro Official</a></p>
                     <p><a href="http://566.music.coocan.jp/">Tetsuya Komuro WORKS</a></p>
                     
                           <hr>
                     <h2>📁 Music Playlist 👋</h2>
-                    <p><a href="https://onedrive.tkfans.tk/TK%20Music.html">TK Music List</a></p>
-                    <p><a href="https://onedrive.tkfans.tk/Tag.html">TK Music Tag</a></p>
+                    <p><a href="https://onedrive.tkfans.us/TK%20Music.html">TK Music List</a></p>
+                    <p><a href="https://onedrive.tkfans.us/Tag.html">TK Music Tag</a></p>
                           <hr>   
                           
   <img src="https://storage.googleapis.com/image.fanicon.net/uploads/1625188919538_153fy6hrrp.png" width="80%">
